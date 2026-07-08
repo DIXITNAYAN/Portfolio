@@ -11,13 +11,13 @@ const education = [
   {
     year: "2021 - 2023",
     title: "Intermediate",
-    institute: "Your School Name",
+    institute: "Jeevan Jyoti Higher Sec School",
     location: "Uttar Pradesh",
   },
   {
     year: "2020 - 2021",
     title: "High School",
-    institute: "Your School Name",
+    institute: "Jeevan Jyoti Higher Sec School",
     location: "Uttar Pradesh",
   },
 ];
